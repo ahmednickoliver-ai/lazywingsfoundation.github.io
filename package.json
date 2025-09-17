@@ -1,0 +1,25 @@
+// FILE: llf_data_node/messages.json
+[
+  {
+    "id": 1693929600000,
+    "name": "Sample Tester",
+    "email": "tester@example.com",
+    "phone": "+234000000000",
+    "organisation": "LLF Pilots",
+    "topic": "general",
+    "message": "Sample starter message used for initial testing. Replace with real submissions.",
+    "ip": "127.0.0.1",
+    "created": "2025-09-05T10:00:00.000Z"
+  },
+  {
+    "id": 1693929700000,
+    "name": "Ahmed Abdulsalam",
+    "email": "ahmed@lazywingsfoundation.org",
+    "phone": "+2348011111111",
+    "organisation": "Lazywings Lifeline Foundation",
+    "topic": "partner",
+    "message": "Contact for coordination of Impact 25 partners and logistics.",
+    "ip": "127.0.0.1",
+    "created": "2025-09-05T10:01:40.000Z"
+  }
+]
